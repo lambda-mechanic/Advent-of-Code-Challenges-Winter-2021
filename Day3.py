@@ -1,4 +1,4 @@
-# Day 3 part 1 Advent of Code Solution, Liam
+# Day 3 part 1 Advent of Code Solution, Liam Chiasson
 
 # Variables
 gamma_rate = []
